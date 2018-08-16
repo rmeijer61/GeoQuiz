@@ -1,0 +1,4 @@
+#Thu Aug 16 13:49:54 EDT 2018
+base.0=C\:\\Users\\rmeij\\dev\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\120
+path.0=classes.dex
+renamed.0=classes.dex
